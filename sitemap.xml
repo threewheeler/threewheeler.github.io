@@ -27,10 +27,6 @@
   </url>
   
   <url>
-    <loc>https://threewheeler.github.io/</loc>
-  </url>
-  
-  <url>
     <loc>https://threewheeler.github.io/post/</loc>
   </url>
   
@@ -48,6 +44,10 @@
   
   <url>
     <loc>https://threewheeler.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://threewheeler.github.io/</loc>
   </url>
   
 </urlset>
